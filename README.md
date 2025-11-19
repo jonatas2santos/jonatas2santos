@@ -1,5 +1,4 @@
-##  I Use Arch, BTW !!!
-
+<img align="center" alt="Arch BTW" src="gif_typing.gif"
 <!--
 **jonatas2santos/jonatas2santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
