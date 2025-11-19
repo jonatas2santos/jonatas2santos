@@ -1,11 +1,15 @@
 <img align="center" alt="Arch BTW" src="https://github.com/jonatas2santos/jonatas2santos/blob/main/gif_typing.gif">
+
 ##
+
 - Just a sad and insecure human being who loves technology 🐧 
 - Neovim user ⚠️
 - I like creating useless scripts 📜 
 - Studying Python 📚  
 - A big fan of the Yoko Taro universe (DrakeNieR) 🐲 
+
 ##
+
 <div>
     <a href="https://github.com/jonatas2santos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatas2santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
