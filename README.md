@@ -14,7 +14,7 @@
 - A big fan of the Yoko Taro universe (DrakeNieR) 🐲 
 
 <img align="left" height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatas2santos&theme=dark"/>
-<i><b>"Everything that lives is designed to end.<br> We are perpetually trapped... in a never-ending spiral of life and death.<br>Is this a curse? Or some kind of punishment?<br>I often think about the God who blessed us with this cryptic puzzle..."</i></b>
+<i><b>"Everything that lives is designed to end. We are perpetually trapped... in a never-ending spiral of life and death. Is this a curse? Or some kind of punishment? I often think about the God who blessed us with this cryptic puzzle..."</i></b>
 <!--
 
 
