@@ -7,6 +7,7 @@
 - Studying Python 📚  
 - A big fan of the Yoko Taro universe (DrakeNieR) 🐲 
 <!--
+a
 **jonatas2santos/jonatas2santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
