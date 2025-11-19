@@ -7,15 +7,14 @@
 ##
 
 <img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatas2santos&theme=dark"/><b>SPEAK NOT THE WATCHERS</b>
-<img align="right" height="179em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatas2santos&theme=dark"/>
 - Just a sad and insecure human being who loves technology 🐧 
 - Neovim user ⚠️
 - I like creating useless scripts 📜 
 - Studying Python 📚  
 - A big fan of the Yoko Taro universe (DrakeNieR) 🐲 
 
-##
-
+<img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatas2santos&theme=dark"/>
+<br><i><b>"Everything that lives is designed to end.<br> We are perpetually trapped... in a never-ending spiral of life and death.<br>Is this a curse? Or some kind of punishment?<br>I often think about the God who blessed us with this cryptic puzzle..."</i></b>
 <!--
 
 
