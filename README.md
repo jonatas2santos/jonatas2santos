@@ -1,4 +1,4 @@
-<img align="center" alt="Arch BTW" src="gif_typing.gif"
+<img align="center" alt="Arch BTW" src="https://github.com/jonatas2santos/jonatas2santos/blob/main/gif_typing.gif"
 <!--
 **jonatas2santos/jonatas2santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
