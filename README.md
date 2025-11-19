@@ -12,13 +12,13 @@
 
 <div>
     <a href="https://github.com/jonatas2santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatas2santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatas2santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<div>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/python/python-original.svg">
-</div>
+<!-- <div> -->
+<!--     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/python/python-original.svg"> -->
+<!-- </div> -->
 <!--
 a
 **jonatas2santos/jonatas2santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
