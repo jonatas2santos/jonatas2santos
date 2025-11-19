@@ -7,6 +7,7 @@
 ##
 
 <img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatas2santos&theme=dark"/><b>SPEAK NOT THE WATCHERS</b>
+<img align="right" height="179em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatas2santos&theme=dark"/>
 - Just a sad and insecure human being who loves technology 🐧 
 - Neovim user ⚠️
 - I like creating useless scripts 📜 
@@ -15,11 +16,14 @@
 
 ##
 
-<div>
-    <a href="https://github.com/jonatas2santos">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=16&theme=dark"/>
-</div>
 <!--
+
+
+<div align="center">
+    <a href="https://github.com/jonatas2santos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
 a
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatas2santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 **jonatas2santos/jonatas2santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
