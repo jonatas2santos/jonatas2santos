@@ -4,42 +4,60 @@
     <img src="https://skillicons.dev/icons?i=arch,bash,py,neovim"/>
 </p>
 
-##
+---
 
-<img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatas2santos&theme=dark"/><b>SPEAK NOT THE WATCHERS</b>
+<img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatas2santos&theme=dark"/>
+
+### <b>Jonatas Santos</b>
+
 - Technology enthusiast 🐧 
 - Neovim user ⚠️
 - I enjoy creating simple scripts and tools 📜 
 - Studying Data Analysis 📚  
 - Interested in the world of Yoko Taro 🐲 
-<br>
-<img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatas2santos&theme=dark"/>
-<i><b>"Everything that lives is designed to end.<br> We are perpetually trapped... in a never-ending spiral of life and death.<br> Is this a curse? Or some kind of punishment?<br> I often think about the God who blessed us with this cryptic puzzle..."</i></b>
-<!--
 
+---
 
+### 🛠️ Skills  
+- Linux (Arch)  
+- Neovim  
+- Python  
+- Bash / Shell Script  
+- Lua  
+- Git  
+
+---
+
+### 📚 Currently Learning  
+- Data Analysis (Pandas, NumPy)  
+- Python automation  
+- Neovim configuration & plugins  
+
+<br clear="left"/>
+
+---
+
+### ✨ Quote  
+> *"Everything that lives is designed to end.  
+> We are perpetually trapped... in a never-ending spiral of life and death.  
+> Is this a curse? Or some kind of punishment?  
+> I often think about the God who blessed us with this cryptic puzzle..."*
+
+---
+
+### 📊 Languages Overview  
 <div align="center">
     <a href="https://github.com/jonatas2santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
+
+<!--
+
+<img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatas2santos&theme=dark"/>
+
 
 a
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatas2santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 **jonatas2santos/jonatas2santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Just a sad and insecure human being who loves technology 
-- Neovim user 
-- I like creating useless scripts 󰯂 
-- Studying Python  
-- A big fan of the Yoko Taro universe (DrakeNieR) 
 -->
