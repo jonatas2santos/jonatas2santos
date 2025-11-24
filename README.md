@@ -7,10 +7,9 @@
 ##
 
 <img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatas2santos&theme=dark"/><b>SPEAK NOT THE WATCHERS</b>
-- Just a sad and insecure human being who loves technology 🐧 
+- Just a human being who loves technology 🐧 
 - Neovim user ⚠️
 - I like creating useless scripts 📜 
-- Studying Python 📚  
 - A big fan of the Yoko Taro universe (DrakeNieR) 🐲 
 <br>
 <img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatas2santos&theme=dark"/>
