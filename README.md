@@ -48,7 +48,7 @@
 ### 📊 Languages Overview  
 <div align="center">
     <a href="https://github.com/jonatas2santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
