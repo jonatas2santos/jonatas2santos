@@ -20,7 +20,7 @@
 
 ### 🛠️ Skills  
 - Linux (Arch)  
-- Neovim  
+- Neovim  q
 - Python  
 - Bash / Shell Script  
 - Lua  
