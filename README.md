@@ -8,23 +8,13 @@
 
 <img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatas2santos&theme=dark"/>
 
-### <b>Jonatas Santos</b>
+### <b>Jonatas dos Santos</b>
 
 - Technology enthusiast 🐧 
 - Neovim user ⚠️
 - I enjoy creating simple scripts and tools 📜 
 - Studying Data Analysis 📚  
 - Interested in the world of Yoko Taro 🐲 
-
----
-
-### 🛠️ Skills  
-- Linux (Arch)  
-- Neovim  q
-- Python  
-- Bash / Shell Script  
-- Lua  
-- Git  
 
 ---
 
@@ -45,12 +35,12 @@
 
 ---
 
-### 📊 Languages Overview  
-<div align="center">
-    <a href="https://github.com/jonatas2santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
+<!-- ### 📊 Languages Overview   -->
+<!-- <div align="center"> -->
+<!--     <a href="https://github.com/jonatas2santos"> -->
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas2santos&layout=compact&langs_count=16&theme=dark"/> -->
+<!-- </div> -->
+<!---->
 
 <!--
 
