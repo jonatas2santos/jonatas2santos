@@ -6,7 +6,8 @@
 
 ---
 
-<img align="left" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatas2santos&theme=dark"/>
+<a href='https://github.com/jonatas2santos'>
+<img align='left' height='180em' src='https://github-readme-stats.vercel.app/api?username=jonatas2santos&count_private=true&show_icons=true&hide=issues&theme=github_dark'/>
 
 ### <b>Jonatas dos Santos</b>
 
