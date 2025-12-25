@@ -20,7 +20,7 @@
 ---
 
 ### 📚 Currently Learning  
-- Data Analysis (Pandas, NumPy)  
+- Data Science
 - Python automation  
 - Neovim configuration & plugins  
 
