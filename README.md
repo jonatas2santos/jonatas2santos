@@ -21,3 +21,10 @@ Apaixonado por RPGs e, principalmente, pelo universo de Yoko Taro.
 ![Neovim](https://img.shields.io/badge/Neovim%20-%20black?style=for-the-badge&logo=neovim&logoColor=green&labelColor=black&color=black)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script%20-%20black?style=for-the-badge&logo=shell&logoColor=purple&labelColor=black&color=black)
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonatas2santos/jonatas2santos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonatas2santos/jonatas2santos/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+</p>
