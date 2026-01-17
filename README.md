@@ -1,5 +1,5 @@
 <!-- Gif Arch BTW typing -->
-![Arch BTW]()
+![Arch BTW](https://github.com/jonatas2santos/jonatas2santos/blob/61be2bf6079d0dde59d80e9e11a61ec611674a4c/gif_typing.gif)
 
 ## **Jonatas dos Santos**
 
