@@ -5,14 +5,14 @@
 
 > Automação • KISS • Mentalmente vivendo dentro do terminal
 
-Gosto de quebrar sistemas para entendê-los e reconstruí-los de forma mais simples, previsível e confiável.  
-Valorizo minimalismo, configurações limpas e automação como princípios.
-Simples é melhor que complexo — seguidor da filosofia KISS (Keep It Simple, Stupid).
-Amo o terminal; tudo o que der para fazer dentro dele, eu faço.  
-Amo criar scripts e desenvolver ferramentas para automatizar tarefas, reduzir trabalho manual e aumentar a confiabilidade dos sistemas.
-Gosto de entender como as coisas funcionam por baixo: Linux, processos, automação, observabilidade e resolução de problemas operacionais.
-Apaixonado por RPGs e, principalmente, pelo universo de Yoko Taro.
-_Usuário de Arch Linux, Hyprland e Neovim :( _
+Gosto de quebrar sistemas para entendê-los e reconstruí-los de forma mais simples, previsível e confiável.   
+Valorizo minimalismo, configurações limpas e automação como princípios.   
+Simples é melhor que complexo — seguidor da filosofia KISS (Keep It Simple, Stupid).   
+Amo o terminal; tudo o que der para fazer dentro dele, eu faço.    
+Amo criar scripts e desenvolver ferramentas para automatizar tarefas, reduzir trabalho manual e aumentar a confiabilidade dos sistemas.   
+Gosto de entender como as coisas funcionam por baixo: Linux, processos, automação, observabilidade e resolução de problemas operacionais.   
+Apaixonado por RPGs e, principalmente, pelo universo de Yoko Taro.   
+Usuário de Arch Linux, Hyprland e Neovim :(
 
 ### **Atualmente estudando**
 
