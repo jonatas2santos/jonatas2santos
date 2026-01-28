@@ -3,23 +3,27 @@
 
 ## **Jonatas dos Santos**
 
-> Extremamente Ansioso  • KISS • Mentalmente vivendo dentro do terminal
+> Automação • KISS • Mentalmente vivendo dentro do terminal
 
-Eu gosto de quebrar coisas para arrumá-las depois: minimalismo, configurações limpas e simples.
+Gosto de quebrar sistemas para entendê-los e reconstruí-los de forma mais simples, previsível e confiável.  
+Valorizo minimalismo, configurações limpas e automação como princípios.
 Simples é melhor que complexo — seguidor da filosofia KISS (Keep It Simple, Stupid).
-Amo o terminal; tudo o que der para fazer dentro dele, eu faço.
-Amo criar scripts e entender como tudo funciona. Usuário de Arch Linux, Hyprland e Neovim :(
+Amo o terminal; tudo o que der para fazer dentro dele, eu faço.  
+Amo criar scripts e desenvolver ferramentas para automatizar tarefas, reduzir trabalho manual e aumentar a confiabilidade dos sistemas.
+Gosto de entender como as coisas funcionam por baixo: Linux, processos, automação, observabilidade e resolução de problemas operacionais.
 Apaixonado por RPGs e, principalmente, pelo universo de Yoko Taro.
+_Usuário de Arch Linux, Hyprland e Neovim :( _
 
 ### **Atualmente estudando**
 
-![Python](https://img.shields.io/badge/Python%20-%20black?style=for-the-badge&logo=python&logoColor=yellow&label=Data%20Science&labelColor=black&color=black)
-![Lua](https://img.shields.io/badge/Lua%20-%20black?style=for-the-badge&logo=lua&logoColor=blue&labelColor=black&color=black)
+![Python](https://img.shields.io/badge/Python-Black?style=for-the-badge&logo=python&logoColor=yellow&color=black)
+![Docker](https://img.shields.io/badge/Docker-Black?style=for-the-badge&logo=docker&logoColor=blue&color=black)
+![YAML](https://img.shields.io/badge/Yaml-Black?style=for-the-badge&logo=yaml&logoColor=orange&color=black)
+![Shell Script](https://img.shields.io/badge/Shell%20Script%20-%20black?style=for-the-badge&logo=shell&logoColor=purple&labelColor=black&color=black)
 
 ### **Ferramentas e linguagens**
 ![Linux](https://img.shields.io/badge/Linux%20-%20black?style=for-the-badge&logo=linux&logoColor=white&color=black)
 ![Neovim](https://img.shields.io/badge/Neovim%20-%20black?style=for-the-badge&logo=neovim&logoColor=green&labelColor=black&color=black)
-![Shell Script](https://img.shields.io/badge/Shell%20Script%20-%20black?style=for-the-badge&logo=shell&logoColor=purple&labelColor=black&color=black)
 
 <p align="center">
 <picture>
